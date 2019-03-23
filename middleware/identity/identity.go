@@ -5,7 +5,7 @@ import (
 
 	"github.com/kataras/iris"
 
-	"github.com/speedwheel/villacrm/bootstrap"
+	"github.com/lesha9772/villacrm/bootstrap"
 )
 
 // New returns a new handler which adds some headers and view data

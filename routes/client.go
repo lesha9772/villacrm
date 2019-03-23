@@ -2,9 +2,9 @@ package routes
 
 import (
 	"github.com/kataras/iris"
-	"github.com/speedwheel/villacrm/models"
-	"github.com/speedwheel/villacrm/repositories"
-	"github.com/speedwheel/villacrm/services"
+	"github.com/lesha9772/villacrm/models"
+	"github.com/lesha9772/villacrm/repositories"
+	"github.com/lesha9772/villacrm/services"
 )
 
 var (

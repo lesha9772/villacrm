@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"github.com/speedwheel/villacrm/bootstrap"
+	"github.com/lesha9772/villacrm/bootstrap"
 )
 
 // Configure registers the necessary routes to the app.

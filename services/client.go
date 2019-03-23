@@ -5,8 +5,8 @@ import (
 	"strconv"
 
 	"github.com/kataras/golog"
-	"github.com/speedwheel/villacrm/models"
-	"github.com/speedwheel/villacrm/repositories"
+	"github.com/lesha9772/villacrm/models"
+	"github.com/lesha9772/villacrm/repositories"
 )
 
 func CreateUser(dates string, price string, status string, client models.Client) (models.Client, error) {

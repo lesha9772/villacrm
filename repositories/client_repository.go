@@ -9,8 +9,8 @@ import (
 	"gopkg.in/mgo.v2/bson"
 
 	"github.com/kataras/golog"
-	"github.com/speedwheel/villacrm/datasource"
-	"github.com/speedwheel/villacrm/models"
+	"github.com/lesha9772/villacrm/datasource"
+	"github.com/lesha9772/villacrm/models"
 )
 
 var (
